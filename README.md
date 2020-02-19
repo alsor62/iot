@@ -1,8 +1,4 @@
-[![Runbot Status](https://runbot.odoo-community.org/runbot/badge/flat/269/11.0.svg)](https://runbot.odoo-community.org/runbot/repo/github-com-oca-iot-269)
-[![Build Status](https://travis-ci.org/OCA/iot.svg?branch=11.0)](https://travis-ci.org/OCA/iot)
-[![codecov](https://codecov.io/gh/OCA/iot/branch/11.0/graph/badge.svg)](https://codecov.io/gh/OCA/iot)
-
-IoT
+pr1
 ===
 
-Internet of Things applications for Odoo.
+[Project description goes here]
